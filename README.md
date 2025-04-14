@@ -5,7 +5,7 @@ This project is a **Loan Prediction App** built using **Flask** and a machine le
 ## Features
 - **Interactive Web Interface**: Built using **Flask** to allow users to input data and receive predictions.
 - **Loan Status Prediction**: Predicts whether a loan is accepted or rejected based on user-provided data.
-- **Machine Learning Model**: A trained machine learning model is used to classify loan applications.
+- **Machine Learning Model**: A trained machine learning model is used to classify loan applications  that predicts the applications approval with 98% accuracy.
 
 ## Technologies Used
 - **Flask**: A lightweight web framework for building the backend.
