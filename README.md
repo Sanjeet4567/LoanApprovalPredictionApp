@@ -1,7 +1,8 @@
 # Loan Prediction App
 
 This project is a **Loan Prediction App** built using **Flask** and a machine learning model. The app predicts whether a loan application will be **Accepted** or **Rejected** based on user inputs like income, loan amount, CIBIL score, etc.
-
+## Deployment Link
+https://loanapprovalpredictionapp.onrender.com/
 ## Features
 - **Interactive Web Interface**: Built using **Flask** to allow users to input data and receive predictions.
 - **Loan Status Prediction**: Predicts whether a loan is accepted or rejected based on user-provided data.
